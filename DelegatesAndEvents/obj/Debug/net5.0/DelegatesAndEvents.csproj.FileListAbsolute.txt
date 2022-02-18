@@ -1,0 +1,16 @@
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.exe
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.deps.json
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.runtimeconfig.json
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.runtimeconfig.dev.json
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.dll
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\ref\DelegatesAndEvents.dll
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.pdb
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.csproj.AssemblyReference.cache
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.AssemblyInfoInputs.cache
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.AssemblyInfo.cs
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.dll
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\ref\DelegatesAndEvents.dll
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.pdb
+C:\workspace\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.genruntimeconfig.cache
